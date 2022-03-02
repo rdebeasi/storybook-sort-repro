@@ -17,26 +17,20 @@ const Template: Story<Button> = (args: Button) => ({
   props: args,
 });
 
-export const Primary = Template.bind({});
-// More on args: https://storybook.js.org/docs/angular/writing-stories/args
-Primary.args = {
-  primary: true,
-  label: 'Button',
-};
-
-export const Secondary = Template.bind({});
-Secondary.args = {
-  label: 'Button',
-};
-
-export const Large = Template.bind({});
-Large.args = {
+export const StoryC = Template.bind({});
+StoryC.args = {
   size: 'large',
   label: 'Button',
 };
 
-export const Small = Template.bind({});
-Small.args = {
-  size: 'small',
+export const StoryB = Template.bind({});
+StoryB.args = {
   label: 'Button',
 };
+
+export const StoryA = Template.bind({});
+StoryA.args = {
+  primary: true,
+  label: 'Button',
+};
+

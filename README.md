@@ -8,4 +8,4 @@ In production, stories are not sorted according to their export instead, they ar
 
 Run `yarn storybook` to start Storybook in dev mode. Stories appear in export order (Story C, Story B, Story A). This is the expected behavior.
 
-Run `yarn build-storybook && npx serve` to start Storybook in production mode. Shows appear in alphabetical order (Story A, Story B, Story C). This behavior appears to be a bug.
+Run `yarn build-storybook && npx serve storybook-static` to start Storybook in production mode. Shows appear in alphabetical order (Story A, Story B, Story C). This behavior appears to be a bug.

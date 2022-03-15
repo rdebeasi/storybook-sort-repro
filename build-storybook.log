@@ -1,0 +1,457 @@
+[0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+
+1.1.19
+
+TypeScript version used by Compodoc : 4.5.5
+
+TypeScript version of current project : 4.3.5
+
+Node.js version : v14.15.1
+
+Operating system : macOS Big Sur
+
+[12:13:41] No configuration file found, switching to CLI flags.
+[12:13:41] Using tsconfig file : /Users/n1511674/Projects/storybook-sort-repro/tsconfig.json
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/.gitignore
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/.browserslistrc
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/README.md
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/.yarnrc.yml
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/build-storybook.log
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/angular.json
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/package-lock.json
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/package.json
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/tsconfig.json
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/tsconfig.app.json
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/yarn.lock
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/documentation.json
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/.storybook/main.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/.storybook/preview.js
+[12:13:41] Ignoring       : /Users/n1511674/Projects/storybook-sort-repro/.storybook/typings.d.ts
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/.storybook/tsconfig.json
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/.yarn/install-state.gz
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/src/favicon.ico
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/src/index.html
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/src/main.ts
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/src/polyfills.ts
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/src/styles.scss
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/192.660cc8f3.iframe.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/192.660cc8f3.iframe.bundle.js.map
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/241.1de2e7af.iframe.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/192.660cc8f3.iframe.bundle.js.LICENSE.txt
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/241.1de2e7af.iframe.bundle.js.LICENSE.txt
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/222.62dea217d6db564d3ac1.manager.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/222.62dea217d6db564d3ac1.manager.bundle.js.LICENSE.txt
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/295.3919b89613215d75483a.manager.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/551.2e19f97729805f95e4e4.manager.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/241.f6dcba306258adff0fe4.manager.bundle.js.LICENSE.txt
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/241.f6dcba306258adff0fe4.manager.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/551.bedc65b3.iframe.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/565.7b6147a0.iframe.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/632.2196c5e4.iframe.bundle.js.LICENSE.txt
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/565.7b6147a0.iframe.bundle.js.LICENSE.txt
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/632.2196c5e4.iframe.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/632.747975fd95c115047f3a.manager.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/632.747975fd95c115047f3a.manager.bundle.js.LICENSE.txt
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/798.15f4bd19.iframe.bundle.js.LICENSE.txt
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/701.aca94bf2.iframe.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/798.15f4bd19.iframe.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/812.68f99031.iframe.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/812.7eaff22589afc56ee230.manager.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/935.e16f9b15.iframe.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/958.34860ff768477a230d46.manager.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/958.679b90b6.iframe.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/935.e16f9b15.iframe.bundle.js.LICENSE.txt
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/959.5c491efc.iframe.bundle.js.LICENSE.txt
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/favicon.ico
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/959.5c491efc.iframe.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/iframe.html
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/index.html
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/main.30ecac1b.iframe.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/runtime~main.e1b300919eda770f3087.manager.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/main.806d5bb44e3e115e7dd9.manager.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/storybook-static/runtime~main.8a0276d2.iframe.bundle.js
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/.yarn/releases/yarn-3.2.0.cjs
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/src/assets/.gitkeep
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/src/app/app.component.ts
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/src/app/app-routing.module.ts
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/src/app/app.module.ts
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/src/environments/environment.prod.ts
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/src/environments/environment.ts
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/src/stories/Button.stories.ts
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/src/stories/button.component.ts
+[12:13:41] Including      : /Users/n1511674/Projects/storybook-sort-repro/src/stories/button.css
+[12:13:41] Searching package.json file
+[12:13:41] package.json file found
+[12:13:41] Processing package.json dependencies
+[12:13:41] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[12:13:41] README.md file found
+[12:13:41] Error during /Users/n1511674/Projects/storybook-sort-repro/CHANGELOG read
+[12:13:41] Continuing without CHANGELOG.md file
+[12:13:41] Error during /Users/n1511674/Projects/storybook-sort-repro/CONTRIBUTING read
+[12:13:41] Continuing without CONTRIBUTING.md file
+[12:13:41] Error during /Users/n1511674/Projects/storybook-sort-repro/LICENSE read
+[12:13:41] Continuing without LICENSE.md file
+[12:13:41] Error during /Users/n1511674/Projects/storybook-sort-repro/TODO read
+[12:13:41] Continuing without TODO.md file
+[12:13:41] Get dependencies data
+[12:13:45] parsing        : /Users/n1511674/Projects/storybook-sort-repro/src/main.ts
+[12:13:45] parsing        : /Users/n1511674/Projects/storybook-sort-repro/src/polyfills.ts
+[12:13:45] parsing        : /Users/n1511674/Projects/storybook-sort-repro/src/app/app.component.ts
+[12:13:45] found          : AppComponent
+[12:13:45] parsing        : /Users/n1511674/Projects/storybook-sort-repro/src/app/app-routing.module.ts
+[12:13:45] Analysing routes definitions and clean them if necessary
+[12:13:45] found          : AppRoutingModule
+[12:13:45]                : - imports:
+[12:13:45]                : 	- RouterModule
+[12:13:45]                : - exports:
+[12:13:45]                : 	- RouterModule
+[12:13:45] parsing        : /Users/n1511674/Projects/storybook-sort-repro/src/app/app.module.ts
+[12:13:45] found          : AppModule
+[12:13:45]                : - imports:
+[12:13:45]                : 	- BrowserModule
+[12:13:45]                : 	- AppRoutingModule
+[12:13:45]                : - declarations:
+[12:13:45]                : 	- AppComponent
+[12:13:45]                : - bootstrap:
+[12:13:45]                : 	- AppComponent
+[12:13:45] parsing        : /Users/n1511674/Projects/storybook-sort-repro/src/environments/environment.prod.ts
+[12:13:45] found          : environment
+[12:13:45] parsing        : /Users/n1511674/Projects/storybook-sort-repro/src/environments/environment.ts
+[12:13:45] found          : environment
+[12:13:45] parsing        : /Users/n1511674/Projects/storybook-sort-repro/src/stories/Button.stories.ts
+[12:13:45] found          : Template
+[12:13:45] found          : StoryC
+[12:13:45] found          : StoryB
+[12:13:45] found          : StoryA
+[12:13:45] parsing        : /Users/n1511674/Projects/storybook-sort-repro/src/stories/button.component.ts
+[12:13:45] found          : ButtonComponent
+[12:13:45] -------------------
+[12:13:45] Project statistics 
+[12:13:45] - files      : 67
+[12:13:45] - module     : 2
+[12:13:45] - component  : 2
+[12:13:45] -------------------
+[12:13:45] Prepare components
+[12:13:45]  ButtonComponent has styleUrls, include them
+[12:13:45] Prepare modules
+[12:13:45] Process routes
+[12:13:45] Prepare miscellaneous
+[12:13:45] Process documentation coverage report
+[12:13:45] Generating documentation in export format json
+[12:13:45] Documentation generated in ./ in 3.956 seconds
+info @storybook/angular v6.5.0-alpha.45
+info 
+info => Cleaning outputDir: /var/folders/nl/kxqdz_qs0l5bt69pbr2f0_d80000gn/T/chromatic--99157-jjLp1SJuwcI5
+info => Loading presets
+info => Compiling manager..
+info => Compiling preview..
+info => Found custom tsconfig.json
+Addon-docs: using MDX1
+info => Using implicit CSS loaders
+info => Loading angular-cli config for angular lower than 12.2.0
+info => Using angular project "storybook-sort-repro:build" for configuring Storybook
+info => Using angular-cli webpack config
+info => Using default Webpack5 setup
+<s> [webpack.Progress] 0% 
+
+<s> [webpack.Progress] 1% setup initialize
+<s> [webpack.Progress] 1% setup initialize HtmlWebpackPlugin
+<s> [webpack.Progress] 1% setup initialize
+<s> [webpack.Progress] 2% setup before run
+<s> [webpack.Progress] 2% setup before run NodeEnvironmentPlugin
+<s> [webpack.Progress] 2% setup before run
+<s> [webpack.Progress] 3% setup run
+<s> [webpack.Progress] 3% setup run fork-ts-checker-webpack-plugin
+<s> [webpack.Progress] 3% setup run
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 4% setup normal module factory CaseSensitivePathsPlugin
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 5% setup context module factory ContextReplacementPlugin
+<s> [webpack.Progress] 5% setup context module factory ContextReplacementPlugin
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 6% setup before compile ProgressPlugin
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 7% setup compile fork-ts-checker-webpack-plugin
+Starting type checking service...
+<s> [webpack.Progress] 7% setup compile ExternalsPlugin
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 8% setup compilation CopyPlugin
+<s> [webpack.Progress] 8% setup compilation ArrayPushCallbackChunkFormatPlugin
+<s> [webpack.Progress] 8% setup compilation JsonpChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation StartupChunkDependenciesPlugin
+<s> [webpack.Progress] 8% setup compilation ImportScriptsChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileWasmPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileAsyncWasmPlugin
+<s> [webpack.Progress] 8% setup compilation WorkerPlugin
+<s> [webpack.Progress] 8% setup compilation SplitChunksPlugin
+<s> [webpack.Progress] 8% setup compilation RuntimeChunkPlugin
+<s> [webpack.Progress] 8% setup compilation ResolverCachePlugin
+<s> [webpack.Progress] 8% setup compilation HtmlWebpackPlugin
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 9% setup compilation AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 9% setup compilation DedupeModuleResolvePlugin
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation ProvidePlugin
+<s> [webpack.Progress] 9% setup compilation ProgressPlugin
+<s> [webpack.Progress] 9% setup compilation ChunkPrefetchPreloadPlugin
+<s> [webpack.Progress] 9% setup compilation SourceMapDevToolPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptModulesPlugin
+<s> [webpack.Progress] 9% setup compilation JsonModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AssetModulesPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation RuntimePlugin
+<s> [webpack.Progress] 9% setup compilation InferAsyncModulesPlugin
+<s> [webpack.Progress] 9% setup compilation DataUriPlugin
+<s> [webpack.Progress] 9% setup compilation FileUriPlugin
+<s> [webpack.Progress] 9% setup compilation CompatibilityPlugin
+<s> [webpack.Progress] 9% setup compilation HarmonyModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AMDPlugin
+<s> [webpack.Progress] 9% setup compilation RequireJsStuffPlugin
+<s> [webpack.Progress] 9% setup compilation CommonJsPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation NodeStuffPlugin
+<s> [webpack.Progress] 9% setup compilation APIPlugin
+<s> [webpack.Progress] 9% setup compilation ExportsInfoApiPlugin
+<s> [webpack.Progress] 9% setup compilation WebpackIsIncludedPlugin
+<s> [webpack.Progress] 9% setup compilation ConstPlugin
+<s> [webpack.Progress] 9% setup compilation UseStrictPlugin
+<s> [webpack.Progress] 9% setup compilation RequireIncludePlugin
+<s> [webpack.Progress] 9% setup compilation RequireEnsurePlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation ImportPlugin
+<s> [webpack.Progress] 9% setup compilation SystemPlugin
+<s> [webpack.Progress] 9% setup compilation ImportMetaPlugin
+<s> [webpack.Progress] 9% setup compilation URLPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsFactoryPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPresetPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPrinterPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptMetaInfoPlugin
+<s> [webpack.Progress] 9% setup compilation EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 9% setup compilation RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 9% setup compilation MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 9% setup compilation FlagIncludedChunksPlugin
+<s> [webpack.Progress] 9% setup compilation SideEffectsFlagPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyExportsPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyUsagePlugin
+<s> [webpack.Progress] 9% setup compilation InnerGraphPlugin
+<s> [webpack.Progress] 9% setup compilation MangleExportsPlugin
+<s> [webpack.Progress] 9% setup compilation ModuleConcatenationPlugin
+<s> [webpack.Progress] 9% setup compilation NoEmitOnErrorsPlugin
+<s> [webpack.Progress] 9% setup compilation RealContentHashPlugin
+<s> [webpack.Progress] 9% setup compilation WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 9% setup compilation NamedModuleIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation TerserPlugin
+<s> [webpack.Progress] 9% setup compilation TemplatedPathPlugin
+<s> [webpack.Progress] 9% setup compilation RecordIdsPlugin
+<s> [webpack.Progress] 9% setup compilation WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 9% setup compilation IgnoreWarningsPlugin
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 10% building
+<s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/builder-webpack5/node_modules/babel-loader/lib/index.js
+<s> [webpack.Progress] 10% building 0/17 entries 6/21 dependencies 0/5 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/style-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/css-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/postcss-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/resolve-url-loader/index.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/sass-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building 0/17 entries 15/21 dependencies 0/14 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/ts-loader/index.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/angular/dist/ts3.9/server/ngx-template-loader/index.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
+<s> [webpack.Progress] 10% building 0/17 entries 46/64 dependencies 7/38 modules
+<s> [webpack.Progress] 10% building 0/17 entries 100/190 dependencies 12/69 modules
+<s> [webpack.Progress] 13% building 1/17 entries 100/190 dependencies 15/69 modules
+<s> [webpack.Progress] 16% building 2/17 entries 208/468 dependencies 22/109 modules
+<s> [webpack.Progress] 16% building 2/17 entries 700/942 dependencies 27/299 modules
+<s> [webpack.Progress] 16% building 2/17 entries 1100/1199 dependencies 59/333 modules
+<s> [webpack.Progress] 16% building import loader ./node_modules/babel-loader/lib/index.js
+<s> [webpack.Progress] 16% building 2/17 entries 1140/1199 dependencies 64/337 modules
+<s> [webpack.Progress] 19% building 3/17 entries 1162/1199 dependencies 68/357 modules
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 100% 
+
+ERR! => Failed to build the preview
+ERR! Module not found: Error: Can't resolve 'tslib' in '/Users/n1511674/Projects/storybook-sort-repro/src/stories'
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 100% 
+
+<s> [webpack.Progress] 22% building 4/17 entries 1162/1199 dependencies 109/357 modules
+<s> [webpack.Progress] 26% building 5/17 entries 1162/1199 dependencies 127/357 modules
+<s> [webpack.Progress] 29% building 6/17 entries 1162/1199 dependencies 128/357 modules
+<s> [webpack.Progress] 32% building 7/17 entries 1162/1199 dependencies 129/357 modules
+<s> [webpack.Progress] 35% building 8/17 entries 1162/1199 dependencies 130/357 modules
+<s> [webpack.Progress] 39% building 9/17 entries 1162/1199 dependencies 131/357 modules
+<s> [webpack.Progress] 42% building 10/17 entries 1162/1199 dependencies 132/357 modules
+<s> [webpack.Progress] 45% building 11/17 entries 1162/1199 dependencies 133/357 modules
+<s> [webpack.Progress] 48% building 12/17 entries 1162/1199 dependencies 134/357 modules
+<s> [webpack.Progress] 52% building 13/17 entries 1162/1199 dependencies 198/357 modules
+<s> [webpack.Progress] 55% building 14/17 entries 1162/1199 dependencies 198/357 modules
+<s> [webpack.Progress] 58% building 15/17 entries 1162/1199 dependencies 198/357 modules
+<s> [webpack.Progress] 61% building 16/17 entries 1162/1199 dependencies 201/357 modules
+<s> [webpack.Progress] 63% building 17/17 entries 1162/1199 dependencies 201/357 modules
+ERR! ModuleNotFoundError: Module not found: Error: Can't resolve 'tslib' in '/Users/n1511674/Projects/storybook-sort-repro/src/stories'
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/lib/Compilation.js:2014:28
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/lib/NormalModuleFactory.js:791:13
+ERR!     at eval (eval at create (/Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:10:1)
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/lib/NormalModuleFactory.js:265:22
+ERR!     at eval (eval at create (/Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:9:1)
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/lib/NormalModuleFactory.js:427:22
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/lib/NormalModuleFactory.js:111:11
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/lib/NormalModuleFactory.js:663:25
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/lib/NormalModuleFactory.js:848:8
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/lib/NormalModuleFactory.js:968:5
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/neo-async/async.js:6883:13
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/lib/NormalModuleFactory.js:951:45
+ERR!     at finishWithoutResolve (/Users/n1511674/Projects/storybook-sort-repro/node_modules/enhanced-resolve/lib/Resolver.js:312:11)
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/enhanced-resolve/lib/Resolver.js:386:15
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/enhanced-resolve/lib/Resolver.js:435:5
+ERR!     at eval (eval at create (/Users/n1511674/Projects/storybook-sort-repro/node_modules/enhanced-resolve/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:15:1)
+ERR!  ModuleNotFoundError: Module not found: Error: Can't resolve 'tslib' in '/Users/n1511674/Projects/storybook-sort-repro/src/stories'
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/lib/Compilation.js:2014:28
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/lib/NormalModuleFactory.js:791:13
+ERR!     at eval (eval at create (/Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:10:1)
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/lib/NormalModuleFactory.js:265:22
+ERR!     at eval (eval at create (/Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:9:1)
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/lib/NormalModuleFactory.js:427:22
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/lib/NormalModuleFactory.js:111:11
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/lib/NormalModuleFactory.js:663:25
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/lib/NormalModuleFactory.js:848:8
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/lib/NormalModuleFactory.js:968:5
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/neo-async/async.js:6883:13
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/@storybook/builder-webpack5/node_modules/webpack/lib/NormalModuleFactory.js:951:45
+ERR!     at finishWithoutResolve (/Users/n1511674/Projects/storybook-sort-repro/node_modules/enhanced-resolve/lib/Resolver.js:312:11)
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/enhanced-resolve/lib/Resolver.js:386:15
+ERR!     at /Users/n1511674/Projects/storybook-sort-repro/node_modules/enhanced-resolve/lib/Resolver.js:435:5
+ERR!     at eval (eval at create (/Users/n1511674/Projects/storybook-sort-repro/node_modules/enhanced-resolve/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:15:1)
+ERR! resolve 'tslib' in '/Users/n1511674/Projects/storybook-sort-repro/src/stories'
+ERR!   Parsed request is a module
+ERR!   using description file: /Users/n1511674/Projects/storybook-sort-repro/package.json (relative path: ./src/stories)
+ERR!     Field 'browser' doesn't contain a valid alias configuration
+ERR!     resolve as module
+ERR!       /Users/n1511674/Projects/storybook-sort-repro/src/stories/node_modules doesn't exist or is not a directory
+ERR!       /Users/n1511674/Projects/storybook-sort-repro/src/node_modules doesn't exist or is not a directory
+ERR!       looking for modules in /Users/n1511674/Projects/storybook-sort-repro/node_modules
+ERR!         single file module
+ERR!           using description file: /Users/n1511674/Projects/storybook-sort-repro/package.json (relative path: ./node_modules/tslib)
+ERR!             no extension
+ERR!               Field 'browser' doesn't contain a valid alias configuration
+ERR!               /Users/n1511674/Projects/storybook-sort-repro/node_modules/tslib doesn't exist
+ERR!             .mjs
+ERR!               Field 'browser' doesn't contain a valid alias configuration
+ERR!               /Users/n1511674/Projects/storybook-sort-repro/node_modules/tslib.mjs doesn't exist
+ERR!             .js
+ERR!               Field 'browser' doesn't contain a valid alias configuration
+ERR!               /Users/n1511674/Projects/storybook-sort-repro/node_modules/tslib.js doesn't exist
+ERR!             .jsx
+ERR!               Field 'browser' doesn't contain a valid alias configuration
+ERR!               /Users/n1511674/Projects/storybook-sort-repro/node_modules/tslib.jsx doesn't exist
+ERR!             .ts
+ERR!               Field 'browser' doesn't contain a valid alias configuration
+ERR!               /Users/n1511674/Projects/storybook-sort-repro/node_modules/tslib.ts doesn't exist
+ERR!             .tsx
+ERR!               Field 'browser' doesn't contain a valid alias configuration
+ERR!               /Users/n1511674/Projects/storybook-sort-repro/node_modules/tslib.tsx doesn't exist
+ERR!             .json
+ERR!               Field 'browser' doesn't contain a valid alias configuration
+ERR!               /Users/n1511674/Projects/storybook-sort-repro/node_modules/tslib.json doesn't exist
+ERR!             .cjs
+ERR!               Field 'browser' doesn't contain a valid alias configuration
+ERR!               /Users/n1511674/Projects/storybook-sort-repro/node_modules/tslib.cjs doesn't exist
+ERR!         /Users/n1511674/Projects/storybook-sort-repro/node_modules/tslib doesn't exist
+ERR!       /Users/n1511674/Projects/node_modules doesn't exist or is not a directory
+ERR!       looking for modules in /Users/n1511674/node_modules
+ERR!         single file module
+ERR!           No description file found in /Users/n1511674/node_modules or above
+ERR!           no extension
+ERR!             Field 'browser' doesn't contain a valid alias configuration
+ERR!             /Users/n1511674/node_modules/tslib doesn't exist
+ERR!           .mjs
+ERR!             Field 'browser' doesn't contain a valid alias configuration
+ERR!             /Users/n1511674/node_modules/tslib.mjs doesn't exist
+ERR!           .js
+ERR!             Field 'browser' doesn't contain a valid alias configuration
+ERR!             /Users/n1511674/node_modules/tslib.js doesn't exist
+ERR!           .jsx
+ERR!             Field 'browser' doesn't contain a valid alias configuration
+ERR!             /Users/n1511674/node_modules/tslib.jsx doesn't exist
+ERR!           .ts
+ERR!             Field 'browser' doesn't contain a valid alias configuration
+ERR!             /Users/n1511674/node_modules/tslib.ts doesn't exist
+ERR!           .tsx
+ERR!             Field 'browser' doesn't contain a valid alias configuration
+ERR!             /Users/n1511674/node_modules/tslib.tsx doesn't exist
+ERR!           .json
+ERR!             Field 'browser' doesn't contain a valid alias configuration
+ERR!             /Users/n1511674/node_modules/tslib.json doesn't exist
+ERR!           .cjs
+ERR!             Field 'browser' doesn't contain a valid alias configuration
+ERR!             /Users/n1511674/node_modules/tslib.cjs doesn't exist
+ERR!         /Users/n1511674/node_modules/tslib doesn't exist
+ERR!       /Users/node_modules doesn't exist or is not a directory
+ERR!       /node_modules doesn't exist or is not a directory
+ERR!       looking for modules in /Users/n1511674/Projects/storybook-sort-repro
+ERR!         single file module
+ERR!           using description file: /Users/n1511674/Projects/storybook-sort-repro/package.json (relative path: ./tslib)
+ERR!             no extension
+ERR!               Field 'browser' doesn't contain a valid alias configuration
+ERR!               /Users/n1511674/Projects/storybook-sort-repro/tslib doesn't exist
+ERR!             .mjs
+ERR!               Field 'browser' doesn't contain a valid alias configuration
+ERR!               /Users/n1511674/Projects/storybook-sort-repro/tslib.mjs doesn't exist
+ERR!             .js
+ERR!               Field 'browser' doesn't contain a valid alias configuration
+ERR!               /Users/n1511674/Projects/storybook-sort-repro/tslib.js doesn't exist
+ERR!             .jsx
+ERR!               Field 'browser' doesn't contain a valid alias configuration
+ERR!               /Users/n1511674/Projects/storybook-sort-repro/tslib.jsx doesn't exist
+ERR!             .ts
+ERR!               Field 'browser' doesn't contain a valid alias configuration
+ERR!               /Users/n1511674/Projects/storybook-sort-repro/tslib.ts doesn't exist
+ERR!             .tsx
+ERR!               Field 'browser' doesn't contain a valid alias configuration
+ERR!               /Users/n1511674/Projects/storybook-sort-repro/tslib.tsx doesn't exist
+ERR!             .json
+ERR!               Field 'browser' doesn't contain a valid alias configuration
+ERR!               /Users/n1511674/Projects/storybook-sort-repro/tslib.json doesn't exist
+ERR!             .cjs
+ERR!               Field 'browser' doesn't contain a valid alias configuration
+ERR!               /Users/n1511674/Projects/storybook-sort-repro/tslib.cjs doesn't exist
+ERR!         /Users/n1511674/Projects/storybook-sort-repro/tslib doesn't exist
